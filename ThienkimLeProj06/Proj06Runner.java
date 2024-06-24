@@ -3,7 +3,8 @@
 
 class Proj06Runner{
   
-  String var = "Display your name here";
+  public static String var = "Thienkim Le";
+  
   Proj06Runner(){
     System.out.println(
       "I certify that this program is my own work \n"+
@@ -13,4 +14,3 @@ class Proj06Runner{
   }//end constructor
 
 }//end class Proj06Runner
-
